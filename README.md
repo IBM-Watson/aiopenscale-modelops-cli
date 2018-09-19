@@ -1,0 +1,1 @@
+# aiopenscale-modelops-cli
